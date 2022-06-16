@@ -1,0 +1,18 @@
+li a{
+    font-weight: 500;
+    
+}
+
+span{
+    color: white;
+}
+
+#navColor{
+    background-color: #00A3DE;
+}
+nav{
+    margin-bottom: 10px;
+}
+span:hover{
+    color: #c0e1ec;
+}

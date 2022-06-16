@@ -1,0 +1,27 @@
+.footer{
+    background-color: #00A3DE;
+}
+
+ul{
+    margin: 5px;
+    padding: 0;
+    list-style-type: none;
+}
+ul a{
+    color: white;
+    text-decoration: none;
+    font-weight: 200;
+}
+
+
+.heading{
+    /* display: flex;
+    justify-content: center; */
+    font-weight: 500;
+    color: white;
+}
+
+#address{
+    font-weight: 200;
+    color: white;
+}
